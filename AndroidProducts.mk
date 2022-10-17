@@ -6,9 +6,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/aosp_davinci.mk
+    $(LOCAL_DIR)/tequila_davinci.mk
 
 COMMON_LUNCH_CHOICES := \
-    aosp_davinci-user \
-    aosp_davinci-userdebug \
-    aosp_davinci-eng
+    tequila_davinci-user \
+    tequila_davinci-userdebug \
+    tequila_davinci-eng
